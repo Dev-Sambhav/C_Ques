@@ -4,7 +4,7 @@
 
 // Solve
 void solve(int n1,int n2,int t){
-    int i,next;
+    int next;
     if(t>2){
         next = (n1+n2);
         printf("%d ",next);
